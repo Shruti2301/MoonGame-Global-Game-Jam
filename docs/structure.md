@@ -1,0 +1,7 @@
+## Folder Structure
+
+- assets/ → art, audio, UI
+- src/ → core game logic
+- scenes/ → game levels
+- docs/ → documentation
+
