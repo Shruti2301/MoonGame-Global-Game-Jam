@@ -1,2 +1,1 @@
-# Global-GameJam
-Theme : Mask
+# Global Game Jam
