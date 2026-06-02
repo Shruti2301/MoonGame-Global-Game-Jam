@@ -125,8 +125,4 @@ The two diversifiers reinforce each other: the walk is the timer. The further yo
 
 ## 📜 License
 
-Built for the Global Game Jam. Game jam submissions are open by default — feel free to explore the code. Please credit the team if you build on it.
-
----
-
-*Made in 48 hours. Sleep-deprived. Worth it.*
+Built for the Global Game Jam. 
